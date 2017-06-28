@@ -1,0 +1,46 @@
+* { 
+font: normal small-caps normal 13px/150% Arial, Helvetica, sans-serif;
+}
+
+/** HEADER **/
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+
+h1.navbar-brand  {
+  color:#557c3e;
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75
+}
+
+#nav-list {
+  background-color: #137F98;
+}
+
+#nav-list a {
+  color: #FFD471;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7
+}
+
+#nav-list a {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #137F98;
+}
+
+section{
+  border: 1px solid black;
+  padding:15px;
+  margin:10px;
+  background-color: #aaa;
+}
